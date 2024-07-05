@@ -1,7 +1,7 @@
 # Nosql-Challenge
 
 
-
+In this challenge I was tasked with creating a social network app with the ability to create thoughts and users and delete thoughts and users.
 
 
 
